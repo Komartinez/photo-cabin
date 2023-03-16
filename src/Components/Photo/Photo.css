@@ -1,0 +1,24 @@
+.prePhoto {
+    border-radius: 10%;
+}
+
+button.takePhoto {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 12px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px;
+    cursor: pointer;
+  }
+  
+  button.takePhoto:hover {
+    background-color: #3e8e41;
+  }
+  
+  button.takePhoto:active {
+    background-color: #2980B9;
+  }
